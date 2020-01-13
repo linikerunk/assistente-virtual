@@ -7,3 +7,4 @@
   <li># systemctl enable espeakup.service</li>
   <li># pip install --upgrade pyyaml</li>
   <li># pip install -r requirements.txt</li>
+ </ul>
